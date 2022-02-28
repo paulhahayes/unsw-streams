@@ -1,0 +1,1 @@
+var BACKEND_PORT = "8010";var DEPLOYED_URL = "https://example.alwaysdata.net";
